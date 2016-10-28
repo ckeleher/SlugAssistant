@@ -4,6 +4,7 @@ An easy-to-use website for UCSC students aimed at helping them plan their academ
 
 Our release plan: https://docs.google.com/a/ucsc.edu/document/d/1Ecc9gELL79eETh0t7uo5KDkoJJXJCt9NnVw9GdgP-Sk/edit?usp=sharing
 
-Our sprint plan: https://docs.google.com/a/ucsc.edu/document/d/139zbDic0ykpPwpfvd7-Inr6L0qSXiI2Ixl9ezJzSWUA/edit?usp=sharing
+Our sprint 1 plan: https://docs.google.com/a/ucsc.edu/document/d/139zbDic0ykpPwpfvd7-Inr6L0qSXiI2Ixl9ezJzSWUA/edit?usp=sharing
 
+Our sprint 2 plan: https://docs.google.com/document/d/1QhhWGbrSm2Brj6UXFSzxEUiBOgjcpA9FNMky0Zui9Nk/edit?usp=sharing
 Please note that these documents are not yet finished, as our group has not had a chance to meet in-person yet.
