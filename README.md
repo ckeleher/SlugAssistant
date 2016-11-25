@@ -7,3 +7,5 @@ Our release plan: https://docs.google.com/a/ucsc.edu/document/d/1Ecc9gELL79eETh0
 Our sprint 1 plan: https://docs.google.com/a/ucsc.edu/document/d/139zbDic0ykpPwpfvd7-Inr6L0qSXiI2Ixl9ezJzSWUA/edit?usp=sharing
 
 Our sprint 2 plan: https://docs.google.com/document/d/1QhhWGbrSm2Brj6UXFSzxEUiBOgjcpA9FNMky0Zui9Nk/edit?usp=sharing
+
+Our sprint 3 plan: https://docs.google.com/document/d/1dCmJdo62mavPLeqlgNwjy0HjSln0fBQe9bcLLsigfuo/edit?usp=sharing
