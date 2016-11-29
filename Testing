@@ -52,6 +52,7 @@ BRYAN
 MICHAEL
 Various Google accounts were used to ensure signing in works for all users (black-box)
 Tested in: Google Chrome, Mozilla Firefox, and Microsoft Edge
+Note: Both allow and deny buttons function properly when asking for user permission
 Accounts:
 	- Account 1: mijogarc@ucsc.edu
           Upon clicking add acount moves on to permissions - passed
@@ -63,7 +64,7 @@ Accounts:
 	- Account n: " "
 	  Upon clicking add acount moves on to permissions - passed
 
-All accounts tested were able to successfully sign in, move on to permissions, and proceed to next page. 	  
+All accounts tested were able to successfully sign in, move on to permissions, and proceed to next page. 
 
 
 RJ
