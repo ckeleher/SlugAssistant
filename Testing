@@ -72,6 +72,28 @@ All accounts tested were able to successfully sign in, move on to permissions, a
 
 RJ
 
+Event creation module. This was made in php. It takes as inputs the times/dates of the user’s classes and allows them to name and list a location then create a repeating event. Though the functionality for the creation of the event is missing, the code still creates the variables and does the validation that would be necessary should the program move forward to the point of being able to actually add events. There are four fields for the event. The first is a dropdown that contains all standard class times. The second lists the days the classes occur. The third lets you name the class with the fourth giving the class’ location. If any of these are not filled out they will return an error asking for them to be filled. If more than one date set is chosen for the second field it will remind the user to only include one choice.
+Testing for each field.
+Field 1:
+Choosing any time successfully gets rid of error on submission. -pass
+Field 2:
+Entering one date gives no error. -pass
+Entering two dates gives an error telling you to choose only one -pass
+Entering three dates gives an error telling you to choose only one -pass
+Entering no dates gives an error telling you to choose at least one -pass
+Field 3: 
+Entering no text gives an error asking the user to enter an event name
+Entering any text removes the error on submission -pass
+Field 4:
+Entering no text gives an error telling the user to enter an event location
+Entering any text removes the error on submission -pass
+
+
+Additional testing:
+The Finals button at the bottom of the page takes the user to the page with finals times information. Clicking the logo takes you back. -pass
+
+
+All testing provided expected output
 
 
 
