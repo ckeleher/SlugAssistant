@@ -44,9 +44,12 @@ Additional testing was done on the various buttons on the page to ensure that th
 
 
 BRYAN
+Tested importing csv files into the ucsc faculty mysql database using phpmyadmin
 
-
-
+Baskin Engineering Faculty:
+Upon importing the csv file containing Baskin Enginnering Faculty, all rows can be viewed in the mysql database - passed
+	
+We can successfully and easily import new faculty into the database to allow students to search
 
 
 MICHAEL
