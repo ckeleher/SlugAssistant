@@ -1,5 +1,45 @@
 CLAYTON
+Various searche sets were ran to ensure that the output was always as intended (black-box)
+Searches:
+ -Searching Full Names
+    First Name: "Patrick" Last Name: ""
+      ~Returns Patrick Tantalo & Patrick Mantey - passed
+    First Name: "" Last Name: "Tantalo"
+      ~Returns Patrick Tantalo - passed
+    First Name: "Patrick" Last Name: "Tantalo"
+      ~Returns Patrick Tantalo - passed
+ -Searching Partial Names
+    First Name: "Pat" Last Name: ""
+      ~Returns Patricia Chan, Patrick Mantey, & Patrick Tantalo - passed
+    First Name: "" Last Name: "Tan"
+      ~Returns Wang-Chiew Tan, Michael Tanner, Patrick Tantalo - passed
+    First Name: "Pat" Last Name: "Tan"
+      ~Returns Patricia Chan, Patrick Mantey, Wang-Chiew Tan, Michael Tanner, Patrick Tantalo - passed
+ -Searching Non-Existent Names
+    First Name: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa" Last Name: ""
+      ~Returns no results - passed
+    First Name: "" Last Name: "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+      ~Returns no results - passed
+    First Name: "?" Last Name: ""
+      ~Returns no results - passed
+    First Name: "" Last Name: "?"
+      ~Returns no results - passed
+    First Name: "" Last Name: ""
+      ~Returns nothing (not even "no results") - passed
+    
 
+All search inputs resulted in expected outputs.
+
+Additional testing was done on the various buttons on the page to ensure that they all performed the correct actions:
+  -Clicking the Logout button (top-right) logs the user out of their google session and returns them to the main webpage. - passed
+  -Clicking the Calendar button takes the user to their main account page. - passed
+  -Clicking the search button takes the FirstName and LastName inputs and searches the database for like matches. The search values are cleared from the input fields. - passed
+  -Clicking the Slug Assistant logo brings the user to the account page. - passed
+  -Visiting the webpage with a narrow window creates the mobile sidebar pullout - passed
+    ~Log In button redirects the user to a dedicated sign in page - passed
+    ~About Us does nothing - passed
+    ~Search Faculty brings the user to a blank search page - passed
+    ~Calendar brings the user to their main account/calendar page - passed
 
 
 
