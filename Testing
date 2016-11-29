@@ -50,9 +50,20 @@ BRYAN
 
 
 MICHAEL
+Various Google accounts were used to ensure signing in works for all users (black-box)
+Tested in: Google Chrome, Mozilla Firefox, and Microsoft Edge
+Accounts:
+	- Account 1: mijogarc@ucsc.edu
+          Upon clicking add acount moves on to permissions - passed
+	- Account 2: mtress1@ucscs.edu 
+	  Upon clicking add account movies on to permissions - passed
+	.
+	.
+	.
+	- Account n: " "
+	  Upon clicking add acount moves on to permissions - passed
 
-
-
+All accounts tested were able to successfully sign in, move on to permissions, and proceed to next page. 	  
 
 
 RJ
