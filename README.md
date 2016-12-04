@@ -1,5 +1,8 @@
 # SlugAssistant
 
+Our website: slugassistant.me
+
+
 An easy-to-use website for UCSC students aimed at helping them plan their academic lives easily and efficiently. Features include a class and assignment scheduler, a searchable database of faculty contact info, and a quick “when are my finals” tab.
 
 Our release plan: https://docs.google.com/a/ucsc.edu/document/d/1Ecc9gELL79eETh0t7uo5KDkoJJXJCt9NnVw9GdgP-Sk/edit?usp=sharing
